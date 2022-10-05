@@ -16,6 +16,7 @@ public class Math {
         m1.getSum(10,20);
         m1.getsub(30,10);
         m1.getsub(30,100);
+
     }
 
 
